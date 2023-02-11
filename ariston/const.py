@@ -207,7 +207,7 @@ class WheType(IntFlag):
     Unknown = -1
     LydosHybrid = 2
     NuosSplit = 4
-    Evo = 6
+    Evo = 1
 
 
 @unique
